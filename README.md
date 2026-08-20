@@ -1,5 +1,4 @@
-# Blinkit-sales-analysis-
-SQL-based sales analysis of Blinkit grocery data — data cleaning, KPI calculation, and performance analysis by outlet, item type, and fat content using MySQL.' 
+
 
 A SQL-based analysis of Blinkit grocery sales data, covering data cleaning, KPI calculation, and multi-dimensional performance analysis using MySQL.
 
